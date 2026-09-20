@@ -6,6 +6,7 @@
 
 ### My Tech Stack:
 
+* **C#** - Building solid applications and diving into the world of .NET.
 * **Python** - Writing scripts, fighting `IndentationError`, and loving it when it runs on the first try.
 * **Git** - Master of `push` & `pull`, and I almost never break the `main` branch!
 * **HTML / CSS** - Building layouts and constantly inspecting element styles in DevTools.
