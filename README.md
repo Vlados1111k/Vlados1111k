@@ -1,5 +1,16 @@
-## Hi, I'm Vlad. I'm a student.
+#  Hi, I'm Vlad!
 
-## Python, Git, HTML/CSS.
+ **CS Student & Aspiring Developer**
 
-## Contacts: Telegram @baks1111k. 
+---
+
+### My Tech Stack:
+**Python** - Writing scripts, fighting `IndentationError`, and loving it when it runs on the first try.
+**Git** - Master of `push` & `pull`, and I almost never break the `main` branch!
+**HTML / CSS** - Building layouts and constantly inspecting element styles in DevTools.
+
+---
+
+###  Let's Connect:
+**Telegram:** [@baks1111k](https://t.me/baks1111k)
+**Open for:** Pet projects, collaborations, and tech chats!
